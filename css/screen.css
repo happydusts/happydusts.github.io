@@ -1010,9 +1010,7 @@ a {
 
   .image img { /* happy dust */
    position: relative;
-	width: 75%; 
-	border: 3px solid #5F5764;
-	border-radius: 3px} 
+	width: 75%; } 
   /* line 32, /app/source/stylesheets/partials/_brick-by-brick.scss */
   .brick-by-brick .description {
     text-align: left;
